@@ -6,3 +6,6 @@ print('hello sir')
 
 print("goyal")
 
+print("a")
+print("name ram")
+
